@@ -1,4 +1,4 @@
-I included the old readme in here cause im to lazy to write up install instructions again.
+I included the old readme in this directory becaused most of the installation instructions are the same.
 
 Basically, the only thing that changed in this project is:
 1) New Picture
